@@ -1,4 +1,5 @@
 // a basic calculator application written in Java
+// given two integer inputs, returns 
 
 public class Calculator {
     public Calculator() {
