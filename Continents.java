@@ -1,4 +1,5 @@
 public class Continents {
+    //program will print out a continent and the largest city in that continent, based on the value of an integer
     public static void main(String[] args) {
       int continent = 3;
 
